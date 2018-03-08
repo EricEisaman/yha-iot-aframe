@@ -1,0 +1,16 @@
+{
+  "thankyou":{
+    "from": "YHA IoT <noreply@elhs.com>",
+    "to": "",
+    "subject": "Thank you!",
+    "text": "Our YHA IoT base app is designed to get developers started with user authenticated IoT applications.",
+    "html": "<div style='background-color:#F8F8F8 ;border-radius:5px'><table style='width:100%'><tr><td style='width:10px'></td><td><h1 style='color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0;'>YHA IoT</h1></td><td></td></tr><tr><td></td><td><div style='font-size: 26px; font-weight: 300; color:#ff8c00; margin: 0 0 24px;'>Making a Better World</div></td><td></td></tr><tr><td></td><td><p style='color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px;'>Thank you for taking the first step towards designing a new and better world. Our IoT network provides valuable realtime sensor data and remote automation to make everyday tasks more reliable and efficient!</p><p>Sincerely, <a href='https://www.linkedin.com/in/eisaman/' style='color: #ff9900; background: #fff4a3; text-decoration: none;'>Eric Eisaman</a></p><img src='https://cdn.glitch.com/1a3d0526-b227-48ca-95b7-53e806694f71%2FYHA-IoT.png' width='150px'></td><td></td></tr></table></div>"
+  }, 
+  "newhighscore":{
+    "from": "YHA IoT <noreply@elhs.com>",
+    "to": "",
+    "subject": "Sensor Update",
+    "text": "Here is your new sensor update!",
+    "html": "<h1>YHA IoT</h1><p>Here is your new sensor update.</p>"
+  }
+}
